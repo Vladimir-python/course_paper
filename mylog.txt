@@ -1,0 +1,6 @@
+<function test_log.<locals>.my_function at 0x00000232D922AB60> ok
+<function test_log.<locals>.my_function at 0x0000028DD4B75A80> ok
+<function test_log.<locals>.my_function at 0x000002124EA899E0> ok
+<function test_log.<locals>.my_function at 0x0000022DEF9699E0> ok
+<function test_log.<locals>.my_function at 0x0000021A44FF9940> ok
+<function test_log.<locals>.my_function at 0x0000025FDF619940> ok
