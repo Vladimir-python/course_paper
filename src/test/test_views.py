@@ -33,4 +33,3 @@ def test_main_page_function(sample_data, mock_get):
     mock_get.return_value.json.return_value = {'key': 'value'}
     json_response = main_page_function(sample_data)
     assert json_response == '{"A": [1, 2, 3], "B": [4, 5, 6]}'  # Пример теста
-
